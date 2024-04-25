@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JenniferBrito
-- 👀 I’m interested in mobile devlopment.
-- 🌱 I’m currently learning Angular, Ionic & Flutter.
+- 👀 I’m interested in Data Engineering.
+- 🌱 I’m currently learning Python.
 
 
 <!---
